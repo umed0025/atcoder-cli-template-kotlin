@@ -1,5 +1,3 @@
-import com.github.jengelman.gradle.plugins.shadow.ShadowApplicationPlugin
-import org.jetbrains.kotlin.gradle.plugin.mpp.pm20.archivesName
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
@@ -35,5 +33,5 @@ application {
 
 task<Exec>("ojTest") {
     dependsOn("shadowJar")
-    commandLine("oj", "t","-d","tests","-c", "\"java -jar build\\libs\\atcoder-1.0-SNAPSHOT-all.jar\"")
+    commandLine("oj", "t", "-d", "tests", "-c", "\"java -jar build\\libs\\atcoder-1.0-SNAPSHOT-all.jar\"")
 }
