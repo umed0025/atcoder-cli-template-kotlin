@@ -106,4 +106,17 @@ OpenJDK Runtime Environment 18.9 (build 11.0.2+9)
 OpenJDK 64-Bit Server VM 18.9 (build 11.0.2+9, mixed mode)
 > kotlin -version
 Kotlin version 1.7.10-release-333 (JRE 11.0.2+9)
+> gradle -version
+------------------------------------------------------------
+Gradle 7.5
+------------------------------------------------------------
+
+Build time:   2022-07-14 12:48:15 UTC
+Revision:     c7db7b958189ad2b0c1472b6fe663e6d654a5103
+
+Kotlin:       1.6.21
+Groovy:       3.0.10
+Ant:          Apache Ant(TM) version 1.10.11 compiled on July 10 2021
+JVM:          11.0.2 (Oracle Corporation 11.0.2+9)
+OS:           Windows 10 10.0 amd64
 ```
