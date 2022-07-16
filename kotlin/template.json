@@ -1,0 +1,7 @@
+{
+  "task":{
+    "program": ["src/main/kotlin/Main.kt","build.gradle.kts","gradle.properties","settings.gradle.kts"],
+    "submit": "src/main/kotlin/Main.kt",
+    "testdir": "tests"  
+  }
+}
