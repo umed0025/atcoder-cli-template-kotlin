@@ -88,16 +88,12 @@ acc config default-template
 # 確認済み環境情報
 
 ```
-> code -v
-1.69.1
-b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a
-x64
 > python -V
 Python 3.10.5
-> node -v
-v16.15.1
 > oj --version
 online-judge-tools 11.5.1 (+ online-judge-api-client 10.10.0)
+> node -v
+v16.15.1
 > acc -v
 2.2.0
 > java -version
@@ -119,4 +115,8 @@ Groovy:       3.0.10
 Ant:          Apache Ant(TM) version 1.10.11 compiled on July 10 2021
 JVM:          11.0.2 (Oracle Corporation 11.0.2+9)
 OS:           Windows 10 10.0 amd64
+> code -v
+1.69.1
+b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a
+x64
 ```
