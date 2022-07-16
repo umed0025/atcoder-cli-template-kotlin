@@ -120,3 +120,8 @@ OS:           Windows 10 10.0 amd64
 b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a
 x64
 ```
+
+# links
+
+* [atcoder-cli](https://github.com/Tatamo/atcoder-cli)
+* [online-judge-tools](https://github.com/online-judge-tools/oj)
